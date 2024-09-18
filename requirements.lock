@@ -10,3 +10,4 @@
 #   universal: false
 
 -e file:.
+pygame==2.6.0
